@@ -1,6 +1,6 @@
 # Jouhara NK — Professional Portfolio
 
-Responsive Angular portfolio with selected work, experience, technical skills, certifications, and a Google Forms project enquiry flow.
+Responsive Angular portfolio with selected work, experience, technical skills, certifications, and contact links.
 
 ## Local development
 
@@ -22,7 +22,7 @@ Static output is generated in `dist/jouhara/browser`.
 For GitHub Pages under this repository's project path, build with:
 
 ```sh
-npm run build -- --base-href /proffessional/
+npm run build -- --base-href /my-portfolio/
 ```
 
 ## Content and branding
@@ -33,4 +33,4 @@ npm run build -- --base-href /proffessional/
 - Project enquiry link: `src/app/contact.config.ts`
 - Browser icons: `public/`
 
-The enquiry form collects project requirements and saves responses in the owner's linked Google Sheet. This repository contains only the public responder URL; no response data is stored in the website source.
+The project enquiry section and its Google Forms links are commented out for public portfolio sharing.
