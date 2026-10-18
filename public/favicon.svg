@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>Jouhara NK</title>
+  <rect width="64" height="64" rx="10" fill="#bb4932"/>
+  <g stroke="#f5f4ed" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M10 22h10v20c0 6-10 6-10 0"/>
+    <path d="M28 45V22l11 23V22"/>
+    <path d="M47 22v23m10-23L47 34l10 11"/>
+  </g>
+</svg>
